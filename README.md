@@ -2,17 +2,17 @@
 📊 Sales Analysis Dashboard (Power BI)
 🚀 Project Overview
 
-This project showcases an end-to-end Business Analysis Dashboard built using Power BI.
-It provides insights into sales performance, customer behavior, and product efficiency to support data-driven decision-making.
+This project presents an end-to-end Business Analysis Dashboard built using Power BI.
+It delivers insights into sales performance, customer behavior, and product efficiency, enabling data-driven decision-making.
 
-🎯 Objective
+🎯 Objectives
 Analyze overall business performance
 Understand customer behavior and spending patterns
 Identify top-performing and low-performing products
 Provide actionable insights and recommendations
 📂 Dataset Description
 
-The dataset contains the following fields:
+The dataset includes the following fields:
 
 Order ID
 Customer Name
@@ -25,52 +25,53 @@ Order Date
 Region
 🧹 Data Cleaning & Preparation
 
-Performed using Power Query:
+Data preprocessing was performed using Power Query:
 
 Removed null and duplicate values
-Standardized formats
+Standardized data formats
 Converted data types (Date, Numeric, Text)
 Handled missing values
-Cleaned inconsistent entries (e.g., “Unknown” customers)
+Cleaned inconsistent entries (e.g., "Unknown" customers)
 🧮 Key Metrics (DAX Measures)
 Total Sales
 Total Profit
 Total Orders
 Total Customers
 Average Order Value (AOV)
-Profit Margin %
+Profit Margin (%)
 📊 Dashboard Pages
-🟦 1. Overview Dashboard
-KPI Cards (Sales, Profit, Orders, Customers)
+🟦 Overview Dashboard
+KPI Cards: Sales, Profit, Orders, Customers
 Sales Trend Analysis (Line Chart)
 Category-wise Sales
 Region-wise Performance
-👥 2. Customer Analysis Dashboard
+👥 Customer Analysis Dashboard
 Top Customers by Sales
 Customer Purchase Frequency
 Average Spend per Customer
 Customer Distribution
-🛒 3. Product Analysis Dashboard
+🛒 Product Analysis Dashboard
 Top Products by Sales
-Profit vs Sales (Scatter Chart)
+Profit vs Sales Analysis (Scatter Chart)
 Sales by Category
 Quantity Trend
-🔍 4. Drill-Through Pages
+🔍 Drill-Through Analysis
 Product-level performance breakdown
+Enables detailed, interactive analysis
 📈 Key Insights
 High revenue but low profit margin (~5–6%)
-Revenue is concentrated among few customers
-Customer engagement is declining
-Some products have high sales but low profit
+Revenue is concentrated among a few customers
+Customer engagement is declining over time
+Some products show high sales but low profitability
 Sales trend is inconsistent
-Data quality issue identified (“Unknown” customer)
+Data quality issue identified ("Unknown" customer)
 💡 Recommendations
-Improve profit margin through pricing and cost optimization
-Focus on customer retention strategies
+Improve profit margins through pricing and cost optimization
+Strengthen customer retention strategies
 Promote high-profit products
-Reduce dependency on a few customers
-Improve data quality and tracking
-Strengthen performance in high-potential regions
+Reduce dependency on a small customer base
+Improve data quality and tracking systems
+Focus on high-potential regions
 🛠️ Tools & Technologies
 Power BI Desktop
 Power Query
