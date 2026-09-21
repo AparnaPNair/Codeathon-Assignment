@@ -1,8 +1,9 @@
 # Codeathon-Assignment
-📊 Sales Analysis  
+📊 Sales Analysis Dashboard (Power BI)
 🚀 Project Overview
 
-This project showcases an end-to-end Business Analysis Dashboard built using Power BI. It provides insights into sales performance, customer behavior, and product efficiency to support data-driven decision-making.
+This project showcases an end-to-end Business Analysis Dashboard built using Power BI.
+It provides insights into sales performance, customer behavior, and product efficiency to support data-driven decision-making.
 
 🎯 Objective
 Analyze overall business performance
@@ -54,7 +55,7 @@ Top Products by Sales
 Profit vs Sales (Scatter Chart)
 Sales by Category
 Quantity Trend
-🔍 4. Drill-Through Pages 
+🔍 4. Drill-Through Pages
 Product-level performance breakdown
 📈 Key Insights
 High revenue but low profit margin (~5–6%)
