@@ -18,13 +18,21 @@ Provide actionable insights and recommendations
 The dataset includes the following fields:
 
 Order ID
+
 Customer Name
+
 Product Name
+
 Category
+
 Sales
+
 Profit
+
 Quantity
+
 Order Date
+
 Region
 
 🧹 Data Cleaning & Preparation
