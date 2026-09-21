@@ -7,6 +7,7 @@ This project presents an end-to-end Business Analysis Dashboard built using Powe
 It delivers insights into sales performance, customer behavior, and product efficiency, enabling data-driven decision-making.
 
 🎯 Objectives
+
 Analyze overall business performance
 Understand customer behavior and spending patterns
 Identify top-performing and low-performing products
