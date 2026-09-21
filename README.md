@@ -47,61 +47,101 @@ Cleaned inconsistent entries (e.g., "Unknown" customers)
 
 
 🧮 Key Metrics (DAX Measures)
+
 Total Sales
+
 Total Profit
+
 Total Orders
+
 Total Customers
+
 Average Order Value (AOV)
+
 Profit Margin (%)
 
 
 📊 Dashboard Pages
 
 🟦 Overview Dashboard
-KPI Cards: Sales, Profit, Orders, Customers
+
+KPI Cards: 
+
+Sales, Profit, Orders, Customers
+
 Sales Trend Analysis (Line Chart)
+
 Category-wise Sales
+
 Region-wise Performance
 
 
 👥 Customer Analysis Dashboard
+
 Top Customers by Sales
+
 Customer Purchase Frequency
+
 Average Spend per Customer
+
 Customer Distribution
 
 
 🛒 Product Analysis Dashboard
+
 Top Products by Sales
+
 Profit vs Sales Analysis (Scatter Chart)
+
 Sales by Category
+
 Quantity Trend
 
+
 🔍 Drill-Through Analysis
+
 Product-level performance breakdown
+
 Enables detailed, interactive analysis
 
 
 📈 Key Insights
+
 High revenue but low profit margin (~5–6%)
+
 Revenue is concentrated among a few customers
+
 Customer engagement is declining over time
+
 Some products show high sales but low profitability
+
 Sales trend is inconsistent
+
 Data quality issue identified ("Unknown" customer)
 
 
+
 💡 Recommendations
+
 Improve profit margins through pricing and cost optimization
+
 Strengthen customer retention strategies
+
 Promote high-profit products
+
 Reduce dependency on a small customer base
+
 Improve data quality and tracking systems
+
 Focus on high-potential regions
 
 
 🛠️ Tools & Technologies
+
 Power BI Desktop
+
 Power Query
+
 DAX (Data Analysis Expressions)
+
 Microsoft Excel
