@@ -120,4 +120,3 @@ The dataset includes:
 - Power BI Desktop  
 - Power Query  
 - DAX  
-- Microsoft Excel  
