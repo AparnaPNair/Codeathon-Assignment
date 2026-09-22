@@ -1,5 +1,5 @@
-# Codeathon-Assignment# 📊 Sales Analysis Dashboard  
-### 🚀 Power BI | Data Analytics Project
+# Codeathon-Assignment#
+📊 Sales Analysis Dashboard  
 
 ---
 
