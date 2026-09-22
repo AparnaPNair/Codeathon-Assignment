@@ -24,7 +24,7 @@ It provides insights into **sales performance, customer behavior, and product ef
 
 The dataset includes:
 
-- **Order ID** – Unique transaction identifier  
+- **Order ID**  
 - **Customer Name** 
 - **Product Name**  
 - **Category**  
